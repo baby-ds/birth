@@ -1,7 +1,9 @@
 body {
+	background-image: url("../images/background.png");
 	background-color: #000;
-	background-size: cover;
-	background-position: center;
+	background-size: auto;
+    background-attachment:fixed;
+    background-position:center bottom;
 }
 
 #console {
@@ -44,9 +46,3 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
-
-.div-wrapper {
-    position: absolute;
-    bottom:0;
-}  
-
