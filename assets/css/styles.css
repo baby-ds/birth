@@ -2,6 +2,7 @@ body {
 	background-image: url("../images/background.png");
 	background-color: #000;
 	background-size: auto;
+    background-repeat: no-repeat;
     background-attachment:fixed;
     background-position:center bottom;
 }
