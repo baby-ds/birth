@@ -1,5 +1,4 @@
 body {
-	background-image: url("../images/background.png");
 	background-color: #000;
 	background-size: cover;
 	background-position: center;
@@ -47,13 +46,7 @@ a {
 }
 
 .div-wrapper {
-    position: relative;
-    height: 300px;
-    width: 300px;
-}
-
-.div-wrapper img {
     position: absolute;
-    left: 0;
-    bottom: 0;
-}
+    bottom:0;
+}  
+
