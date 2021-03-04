@@ -1,0 +1,13 @@
+<span id="a">BabyDS@world</span>:<span id="b">~</span><span id="c">$</span> cd first_day
+<span id="a">BabyDS@world</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt<br/><br/>
+
+<p>Hello World, I am <span id="k">BabyDS</span></p>
+<p> I finally made it. I finally met my parents after 42 long and cozy weeks. I was born on xx.xx.2021 around 12:21 with 4110 g and I was already 55 cm tall.</p>
+<p> I am so excited to finally be with you and get to know all of you. My daddy Ben keeps on cracking amazing dad jokes and my mommy Margarete is so happy.</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> We will get to know each other quite soon, but for now, I want to be with my parents.</p>
+
+<p>Cheers!</p>
+
+<span id="a">BabyDS@world</span>:<span id="b">~</span><span id="c">$</span> bash <!-- kjsdfhkjdhsfkjdshfkj -->sleeping.sh<br/><br/>
+
+<p>... nighty night ...</p>
