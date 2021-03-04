@@ -11,3 +11,5 @@
 <span id="a">BabyDS@world</span>:<span id="b">~</span><span id="c">$</span> bash <!-- kjsdfhkjdhsfkjdshfkj -->sleeping.sh<br/><br/>
 
 <p>... nighty night ...</p>
+
+<img src="assets/images/background.png" style="width: 300px;">
