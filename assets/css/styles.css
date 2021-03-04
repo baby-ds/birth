@@ -45,3 +45,15 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+.div-wrapper {
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+.div-wrapper img {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
