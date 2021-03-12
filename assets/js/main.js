@@ -13,6 +13,7 @@ var Typer = {
         $.get(Typer.file, function (data) {
             Typer.text = data;
             Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+            console.log(Typer.text)
         });
     },
 
@@ -21,7 +22,6 @@ var Typer = {
     },
 
     write: function (str) {
-        console.log(str)
         $('#console').append(str);
         return false;
     },
@@ -43,7 +43,6 @@ var Typer = {
             Typer.hidepop();
         } else if (Typer.text) {
             var cont = Typer.content();
-            console.log(cont)
             if (cont.substring(cont.length - 1, cont.length) == '|')
                 $('#console').html(
                     $('#console')
