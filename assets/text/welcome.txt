@@ -16,5 +16,5 @@
 
 <p>... nighty night ...</p>
 
-<img src="assets/images/background.png" style="width: 300px;">
+<img src="assets/images/background.png" style="width: 300px; margin-left: auto; margin-right: auto;">
 <p>I'm out!</p>
