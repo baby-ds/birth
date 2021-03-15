@@ -1,7 +1,7 @@
-<span id="a">tbd@world</span>:<span id="b">~</span><span id="c">$</span> cd first_day
-<span id="a">tbd@world</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt<br/><br/>
+<span id="a">georgia@world</span>:<span id="b">~</span><span id="c">$</span> cd first_day
+<span id="a">georgia@world</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt<br/><br/>
 
-<p> Hello World, I am <span id="k">tbd</span>,</p>
+<p> Hello World, I am <span id="k">Georgia</span>,</p>
 <p> I finally made it. I finally met my parents after 42 long and cozy weeks. I was born on 11.03.2021.</p>
 <p>I am so excited to finally be with you and get to know all of you. My daddy Ben keeps on cracking amazing dad jokes and my mommy Margaret is so happy.</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> From today, I decide when and how long we sleep. :P</p>
