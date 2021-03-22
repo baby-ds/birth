@@ -12,8 +12,16 @@
 
 <p>PS: Dad, If you have any further questions to Google Cloud please do not hesitate to ask your little engineer in 18 years.</p>
 
-<span id="a">georgia@world</span>:<span id="b">~</span><span id="c">$</span> bash <!-- kjsdfhkjdhsfkjdshfkj -->sleeping.sh<br/><br/>
+<span id="a">georgia@world</span>:<span id="b">~</span><span id="c">$</span> bash <!-- kjsdfhkjdhsfkjdshfkj -->sleeping.sh --sleeppattern=random<br/><br/>
 
 <p>... nighty night ...</p>
-
-<img src="assets/images/background.png" style="width: 300px; margin-left: auto; margin-right: auto; display:block;">
+.
+.
+.
+.
+<span id="pt">AHAHAAHAHAAA just kidding!! It´s party time :D</span>
+<!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
+.
+.
+.
+<p>... chrrrrrr chrrrrrr chrrrrrrr ...</p>
