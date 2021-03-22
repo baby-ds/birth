@@ -100,7 +100,7 @@ Typer.file = 'assets/text/welcome.txt';
 Typer.init();
 
 var isPartyRunning = false;
-var partyTimer = setInterval(partyTime, 500);
+var partyTimer = setInterval(partyTime, 250);
 const backgroudColors = ["powderblue", "pink", "green", "yellow"];
 function partyTime() {
     if (isPartyRunning) {
