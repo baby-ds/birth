@@ -99,9 +99,29 @@ Typer.speed = 1;
 Typer.file = 'assets/text/welcome.txt';
 Typer.init();
 
+var isPartyRunning = false;
+var partyTimer = setInterval(partyTime, 250);
+const backgroudColors = ["powderblue", "pink", "green", "yellow"];
+function partyTime() {
+    if (isPartyRunning) {
+        randomColor = backgroudColors[Math.floor(Math.random() * backgroudColors.length)];
+        document.body.style.backgroundColor = randomColor;
+    } else {
+        document.body.style.backgroundColor = null;
+    }
+}
+
 var timer = setInterval('t();', 30);
 function t() {
     Typer.addText({ keyCode: 123748 });
+    
+    if (Typer.index == Typer.text.length-250) {
+        isPartyRunning = true;
+    }
+    
+    if (Typer.index == Typer.text.length-50) {
+        isPartyRunning = false;
+    }
 
     if (Typer.index > Typer.text.length) {
         clearInterval(timer);
